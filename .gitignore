@@ -18,6 +18,6 @@ vendor
 videos
 .envrc
 node_modules
-dist
+dist*
 .cache
 log
