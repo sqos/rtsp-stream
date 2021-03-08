@@ -336,7 +336,8 @@ func (c *Controller) startPreloadStream(Alias string, URI string) {
 		return
 	}
 
-	stream, id := streamer.NewStream(
+	stream, id := streamer.NewStreamWithId(
+		c.spec.FixedId,
 		URI,
 		c.spec.StoreDir,
 		c.spec.KeepFiles,
@@ -417,7 +418,8 @@ func (c *Controller) StartStreamHandler(w http.ResponseWriter, r *http.Request, 
 		return
 	}
 
-	stream, id := streamer.NewStream(
+	stream, id := streamer.NewStreamWithId(
+		c.spec.FixedId,
 		dto.URI,
 		c.spec.StoreDir,
 		c.spec.KeepFiles,

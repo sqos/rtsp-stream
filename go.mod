@@ -2,7 +2,7 @@ module github.com/Roverr/rtsp-stream
 
 go 1.15
 
-replace github.com/riltech/streamer => github.com/sqos/streamer v1.0.3-0.20210110055918-70c2b236c094
+replace github.com/riltech/streamer => github.com/sqos/streamer v1.0.3-0.20210308072516-09c18dd6817a
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible

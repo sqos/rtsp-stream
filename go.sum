@@ -31,6 +31,8 @@ github.com/sqos/streamer v1.0.3-0.20210109133225-489e70a03c3e h1:9P9X3zIpwkD3BB5
 github.com/sqos/streamer v1.0.3-0.20210109133225-489e70a03c3e/go.mod h1:u/CVTCHPZolh4rUV8ELtys2JafRyQC2Ba9m3AY2DLVs=
 github.com/sqos/streamer v1.0.3-0.20210110055918-70c2b236c094 h1:ndsp1SIMStC6EmOZtPNd0Z4IHepJlR0i8ggbU8ezJaE=
 github.com/sqos/streamer v1.0.3-0.20210110055918-70c2b236c094/go.mod h1:u/CVTCHPZolh4rUV8ELtys2JafRyQC2Ba9m3AY2DLVs=
+github.com/sqos/streamer v1.0.3-0.20210308072516-09c18dd6817a h1:/jAgScoXUR46ZnOeYRANGFcpA6AACZX/+nsuu7Elf2E=
+github.com/sqos/streamer v1.0.3-0.20210308072516-09c18dd6817a/go.mod h1:u/CVTCHPZolh4rUV8ELtys2JafRyQC2Ba9m3AY2DLVs=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
